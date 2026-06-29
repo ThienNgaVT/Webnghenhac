@@ -401,8 +401,7 @@ Webnghenhac/
 
 ## 👤 Tác giả
 
-Đồ án tốt nghiệp — Sinh viên: **Nga**  
-Trường: **Đại học Trà Vinh (TVU)**
+
 
 ---
 
